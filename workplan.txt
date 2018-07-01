@@ -1,4 +1,5 @@
 work: day 2 on master
 update on master and feature 1
 work of day 3 on dev
-Hey, I solved a bug!
+I do something on 0701
+
